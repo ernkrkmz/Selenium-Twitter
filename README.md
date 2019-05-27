@@ -28,6 +28,7 @@ password = browser.find_element_by_xpath("/html/body/div[1]/div[2]/div/div/div[1
 username.send_keys(***)
 password.send_keys(***)
 
+
 giris_yap = browser.find_element_by_xpath("//*[@id='page-container']/div/div[1]/form/div[2]/button")
 giris_yap.click()
 
